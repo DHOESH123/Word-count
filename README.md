@@ -23,8 +23,8 @@ End the program.
 
 ## PROGRAM:
 ```py
-Developed by : D.B.V.SAI GANESH
-Register No: 212223240025
+Developed by : ESHWAR T
+Register No: 212223230054
 
 def wordcount(filename):
     count=0
